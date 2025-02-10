@@ -1,0 +1,13 @@
+Inputs
+Instruction
+    write a program that print a number of characters in a user's name. 
+    You may need to Google to a function that calculates the length of a string.
+   
+    warning: Your program must be work for different name inputs. e.g for any name.
+
+    Example: Input 
+    Desta
+    Example: Output
+    5
+Hint: 1. you can put functions in other functions
+      2. Don't try to print other than a length    

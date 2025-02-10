@@ -1,0 +1,15 @@
+Variables/ swapping 
+Instruction
+    write a program that switches the values stored in the variables a and b.
+   
+    warning: Do not change the code on lines 1-4 and 15-18 your program should work for different input.
+             e.g. any value of a and b
+
+    Example: Input 
+         a: 3
+         b: 5
+    Example: Output
+         a: 5
+         b: 3 
+Hint: 1. you should not have to type any numbers in your code
+      2. You maight need to make some more Variables    
